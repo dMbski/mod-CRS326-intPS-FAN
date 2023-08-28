@@ -5,7 +5,7 @@
 > Work with voltages up to 230V requires appropriate qualifications and experience.
 > The following study is only a documentation of the work on the above topic.
 
-  CPU temperature as a result of modification 69 -> **33** stopni Celcjiusza.
+  CPU temperature as a result of modification 69 -> **33** degrees Celsius.
 
 ### Materials used:
 
